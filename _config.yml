@@ -1,4 +1,7 @@
 theme: jekyll-theme-cayman
 
 collections:
-- participants
+  - participants
+
+plugins:
+  - jekyll-avatar
