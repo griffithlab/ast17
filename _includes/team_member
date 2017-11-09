@@ -1,6 +1,6 @@
+{% assign participant = include.participant %}
 {% assign gh = participant.social | where: 'name', 'GitHub' | last %}
 {% assign gh_id = gh.url | split: '/' | last %}
-{% assign name = participant.name %}
 
 <div class="row">
     <div style="float: left; margin: 5px 10px 0px 0px">
