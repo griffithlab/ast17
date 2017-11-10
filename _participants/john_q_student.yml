@@ -1,0 +1,21 @@
+---
+name: 'John Q. Student'
+role: 'Student'
+bio: 'John loves to write in latin. For example: <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas bibendum semper lobortis. Donec sollicitudin sit amet mauris nec finibus. Mauris eu ornare magna. Curabitur pretium aliquam accumsan. Sed augue mauris, ullamcorper in porttitor sit amet, consectetur id magna. Nunc eget neque sed nisl imperdiet euismod. Fusce placerat vestibulum magna, sit amet consequat diam pulvinar euismod. Sed nec pharetra sapien. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse vehicula, mauris vitae condimentum imperdiet, elit nulla dignissim ante, ut congue elit ante ultricies neque. Sed eu tellus varius, lobortis augue a, placerat est. Integer vulputate lorem a rhoncus sodales. Vestibulum imperdiet neque nibh, eu suscipit dolor posuere a.</em>'
+hobbies: 'Writing documentation for Holy Hand Grenades'
+drink: 'Whiskey'
+social:
+  - name: GitHub
+    url: https://github.com/octocat
+    title: "GitHub Profile"
+  - name: Twitter
+    url: https://twitter.com/octocat
+    title: "Professional Twitter account"
+  - name: linkedin
+    url: https://www.linkedin.com/in/octocat
+    title: "Professional LinkedIn account"
+  - name: Link
+    url: http://example.org
+    title: "Personal Website"
+email: 'octocat@alexwagner.info'
+---

@@ -6,20 +6,16 @@ hobbies: 'Fantasy Football'
 drink: 'Belgian-style Beers'
 social:
   - name: GitHub
-    url: https://github.com/obigriffith
-    class: icon-github
+    url: https://github.com/ahwagner
     title: "GitHub Profile"
   - name: Twitter
     url: https://twitter.com/obigriffith
-    class: icon-twitter
     title: "Professional Twitter account"
   - name: linkedin
     url: https://www.linkedin.com/in/obigriffith
-    class: icon-linkedin
     title: "Professional LinkedIn account"
   - name: Link
     url: http://obigriffith.org
-    class: icon-link
     title: "Personal Website"
 email: 'obigriffith@wustl.edu'
 ---

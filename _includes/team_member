@@ -7,17 +7,15 @@
         {% avatar user=gh_id size=200 %} <br>
         <strong> {{ participant.name }} </strong>
     </div>
-    <div>
-        <strong>Bio:</strong> {{ participant.bio }}
-    </div>
+    <strong>Bio:</strong> {{ participant.bio }}<br>
+    <strong>Favorite Drink:</strong> {{ participant.drink }}<br>
+    <strong>Hobbies:</strong> {{ participant.hobbies }}<br>
 </div>
 
-<div>
-    <div>
-        <ul>
-            {% for social_item in participant.social %}
-            <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}" title="{{ social_item.title }}"></a></li>
-            {% endfor %}
-        </ul>
-    </div>
+<div class="row">
+    <ul>
+        {% for social_item in participant.social %}
+        <li><a href="{{ social_item.url }}" target="_blank" class="{{ social_item.class }}">{{ social_item.title }}</a></li>
+        {% endfor %}
+    </ul>
 </div>

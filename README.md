@@ -13,7 +13,7 @@
 {% endfor %}
 
 ## Students
-{% assign students = site.participants | where: 'role', 'Student' %}
+{% assign students = site.participants | where: 'role', 'Student' | where_exp: 'p', 'p.name != "John Q. Student"' %}
 {% for student in students %}
   {% include team_member participant=student %}
 {% endfor %}
