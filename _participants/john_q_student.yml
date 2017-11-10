@@ -10,10 +10,10 @@ social:
     title: "GitHub Profile"
   - name: Twitter
     url: https://twitter.com/octocat
-    title: "Professional Twitter account"
-  - name: Linkedin
+    title: "Twitter Account"
+  - name: LinkedIn
     url: https://www.linkedin.com/in/octocat
-    title: "Professional LinkedIn account"
+    title: "LinkedIn Account"
   - name: Link
     url: http://example.org
     title: "Personal Website"
