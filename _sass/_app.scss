@@ -36,16 +36,12 @@
   top: 0.2em;
 }
 
-.participant{
-  width: 100%;
-  position:relative;
-  clear:both;
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
-h2{
-  clear:both;
-}
-
-footer{
-  clear:both;
+.participant {
+  margin-bottom: 10px;
 }

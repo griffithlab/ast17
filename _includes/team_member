@@ -2,7 +2,7 @@
 {% assign gh = participant.social | where: 'name', 'GitHub' | last %}
 {% assign gh_id = gh.url | split: '/' | last %}
 
-<div class="participant">
+<div class="participant group">
     <div class="participant-label">
         {% avatar user=gh_id size=200 %} <br>
         <strong> {{ participant.name }} </strong>
