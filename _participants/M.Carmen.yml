@@ -1,0 +1,13 @@
+---
+name: 'M. Carmen'
+role: 'Student'
+bio: 'I am from a litle town in Spain called Rivas and I am currently living in Dallas, TX.' 
+hobbies: 'Ultimate frisbee'
+drink: 'Blood and Honey beer, TX.'
+social:
+  - name: maricar86
+    url: https://github.com/maricar86
+    title: "GitHub Profile"
+  
+email: 'carmencica86@gmail.com'
+---
