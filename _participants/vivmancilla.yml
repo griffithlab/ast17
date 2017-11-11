@@ -1,0 +1,12 @@
+---
+name: 'Viviana Mancilla'
+role: 'Student'
+bio: 'Viviana is a PhD student at UNT Health Science Center studying the gut microbiome (super cool).'
+hobbies: 'Hanging out with her dog, Oliver.'
+drink: 'tequila'
+social:
+  - name: GitHub
+    url: https://github.com/vivmancilla
+    title: "GitHub Profile"
+email: 'Viviana.Mancilla@unthsc.edu'
+---
