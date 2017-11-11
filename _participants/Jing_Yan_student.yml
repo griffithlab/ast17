@@ -1,0 +1,15 @@
+---
+name: 'Jing Yan. Student'
+role: 'Student'
+bio: 'Currently a postdoc from Brigham and Women's Hospital.'
+hobbies: 'Hiking'
+drink: 'bubble tea'
+social:
+  - name: GitHub
+    url: https://github.com/zippymimosa
+    title: "GitHub Profile"
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/jing-yan-a19155a2
+    title: "LinkedIn Account"
+email: 'jyan8@bwh.harvard.edu'
+---
