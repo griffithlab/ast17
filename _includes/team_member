@@ -6,6 +6,7 @@
     <div class="participant-label">
         {% avatar user=gh_id size=200 %} <br>
         <strong> {{ participant.name }} </strong>
+        <br class="large-break">
     </div>
     <div class="participant-info">
         <div class="participant-bio">
