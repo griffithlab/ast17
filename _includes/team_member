@@ -16,7 +16,6 @@
                 {% endfor %}
             </ul>
         </div>
-        <br class="large-break">
     </div>
     <div class="participant-info">
         <div class="participant-bio">
