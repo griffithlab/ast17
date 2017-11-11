@@ -1,0 +1,12 @@
+---
+name: 'Soo Park'
+role: 'Student'
+bio: 'I am a third-year oncology fellow at UCSD.'
+hobbies: 'Running, hiking, traveling'
+drink: 'Milk tea'
+social:
+  - name: GitHub
+    url: https://github.com/soojpark1
+    title: "GitHub Profile"
+email: 'soojpark1@gmail.com'
+---
