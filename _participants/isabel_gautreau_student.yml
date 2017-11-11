@@ -1,0 +1,18 @@
+---
+name: 'Isabel Gautreau'
+role: 'Student'
+bio: 'Came from Germany to US in 1997. Learned cooking in 1999 because I missed gravy and dumplings. Later graduated to making the worlds best cheesecake, which involves making my own Quark using bacteria and milk'
+hobbies: 'Cooking and watching Survivor'
+drink: 'Long Island Ice Tea'
+social:
+  - name: GitHub
+    url: https://github.com/gautreauisabel
+    title: "GitHub Profile"
+  - name: Twitter
+    url: https://twitter.com/@IsabelGautreau
+    title: "Twitter Account"
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/isabelgautreau
+    title: "LinkedIn Account"
+ email: 'gautreau@neb.com'
+---
