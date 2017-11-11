@@ -1,8 +1,8 @@
 ---
-name:'Soo Park'
+name: 'Soo Park'
 role: 'Student'
 bio: 'I am a third-year oncology fellow at UCSD.'
-hobbies:'Running, hiking, traveling'
+hobbies: 'Running, hiking, traveling'
 drink: 'Milk tea'
 social:
   - name: GitHub
