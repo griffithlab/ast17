@@ -1,0 +1,18 @@
+---
+name: 'Zhouwei Zhang, Student'
+role: 'Student'
+bio: 'Zhouwei is from Chengdu, China. He is now a 2nd year PhD student at Harvard University, Dana Farber Cancer Institute and Broad Institute, in the laboratory of Matthew Meyerson. His research focuses on understanding the casues of small intestine neuroendocrine tumor. Zhouwei loves to play soccer. His favorite soccer club is Manchester United. '
+drink: 'H2O'
+hobbies: 'Soccer'
+social:
+  - name: GitHub
+    url: https://github.com/rogerzzw
+    title: "GitHub Profile""
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/zhouwei-zhang-b1473735
+    title: "LinkedIn Account"
+  - name: Facebook
+    url: https://www.facebook.com/roger.zhang.750546?ref=bookmarks
+    title: "Facebook account"	
+email: 'zzhang2@g.harvard.edu'
+---
