@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 'Class Directory'
-description: 'CSHL Advanced Sequencing Technologies Course, 2017'
+description: 'CSHL Advanced Sequencing Technologies 2017'
 ---
 ## Instructors
 {% assign instructors = site.participants | where: 'role', 'Instructor' %}
