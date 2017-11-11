@@ -1,3 +1,4 @@
+---
 name: 'Ulises Rosas'
 role: 'Student'
 bio: 'Plant biologist interested on plant genomics of model and non-model plants'
@@ -10,9 +11,6 @@ social:
   - name: Twitter
     url: https://twitter.com/UlisesRosasL
     title: "Twitter Account"
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/octocat
-    title: "LinkedIn Account"
   - name: http://www.linkedin.com/pub/ulises-rosas/84/522/122
     url: www.ib.unam.mx/directorio/288
     title: "Personal Website"
