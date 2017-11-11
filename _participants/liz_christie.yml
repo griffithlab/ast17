@@ -1,0 +1,18 @@
+---
+name: 'Liz Christie'
+role: 'Student'
+bio: 'Liz is a postdoc at the Peter MacCallum Cancer Centre in Melbourne Australia. Her research focuses on understanding mechanisms of acquired chemotherapy resistance in high-grade serous ovarian cancer.'
+hobbies: 'Board games'
+drink: 'Red wine'
+social:
+  - name: GitHub
+    url: https://github.com/lizchristie
+    title: "GitHub Profile"
+  - name: Twitter
+    url: https://twitter.com/drlizchristie
+    title: "Twitter Account"
+  - name: LinkedIn
+    url: https://au.linkedin.com/in/lizchristie1
+    title: "LinkedIn Account"
+email: 'liz.christie@petermac.org'
+---
