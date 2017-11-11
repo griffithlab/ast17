@@ -1,0 +1,21 @@
+---
+name: 'Aleksandra Wojtas'
+role: 'Student'
+bio: 'Aleksandra is a student at the  Mayo Clinic in Jacksonville, FL  focusing on studying the role of clusterin in pathogenesis of Alzheimer disease.'  
+hobbies: 'Rowing'
+drink: 'Tyskie'
+social:
+  - name: GitHub
+    url: https://github.com/octocat
+    title: "GitHub Profile"
+  - name: Twitter
+    url: https://twitter.com/octocat
+    title: "Twitter Account"
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/octocat
+    title: "LinkedIn Account"
+  - name: Link
+    url: http://example.org
+    title: "Personal Website"
+email: 'octocat@alexwagner.info'
+---
