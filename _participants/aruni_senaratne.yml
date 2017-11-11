@@ -1,0 +1,12 @@
+---
+name: 'Aruni Senaratne'
+role: 'Student'
+bio: "I am a second year PhD student in the Drinnenberg Lab at Institut Curie, Paris. I  work on a very cool model organism, butterflies!" 
+hobbies: 'watching movies'
+drink: 'Beer'
+social:
+  - name: GitHub
+    url: https://github.com/arunisenaratne
+    title: "GitHub Profile"
+email: 'aruni.senaratne@curie.fr'
+---
