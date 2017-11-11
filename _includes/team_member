@@ -2,20 +2,24 @@
 {% assign gh = participant.social | where: 'name', 'GitHub' | last %}
 {% assign gh_id = gh.url | split: '/' | last %}
 
-<div class="row">
-    <div style="float: left; margin: 5px 10px 0px 0px">
+<div class="participant">
+    <div class="participant-label">
         {% avatar user=gh_id size=200 %} <br>
         <strong> {{ participant.name }} </strong>
     </div>
-    <strong>Bio:</strong> {{ participant.bio }}<br>
-    <strong>Favorite Drink:</strong> {{ participant.drink }}<br>
-    <strong>Hobbies:</strong> {{ participant.hobbies }}<br>
-</div>
-
-<div class="row">
-    <ul>
-        {% for social_item in participant.social %}
-        <li><a href="{{ social_item.url }}" target="_blank">{{ social_item.title }}</a></li>
-        {% endfor %}
-    </ul>
+    <div class="participant-info">
+        <div class="participant-bio">
+            <strong>Bio:</strong> {{ participant.bio }}<br>
+            <strong>Favorite Drink:</strong> {{ participant.drink }}<br>
+            <strong>Hobbies:</strong> {{ participant.hobbies }}<br>
+        </div>
+        <div class="participant-social">
+            <br class="small-break">
+            <ul>
+                {% for social_item in participant.social %}
+                <li class="inline-list"><a href="{{ social_item.url }}" target="_blank">{{ social_item.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
 </div>
