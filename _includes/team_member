@@ -6,6 +6,16 @@
     <div class="participant-label">
         {% avatar user=gh_id size=200 %} <br>
         <strong> {{ participant.name }} </strong>
+        <div class="participant-social">
+            <br class="small-break">
+            <ul>
+                {% for social_item in participant.social %}
+                <li class="inline-list"><a href="{{ social_item.url }}" target="_blank" title="{{ social_item.title }}">
+                    <i class="fa fa-{{ social_item.name | downcase }}"></i>
+                </a></li>
+                {% endfor %}
+            </ul>
+        </div>
         <br class="large-break">
     </div>
     <div class="participant-info">
@@ -13,14 +23,6 @@
             <strong>Bio:</strong> {{ participant.bio }}<br>
             <strong>Favorite Drink:</strong> {{ participant.drink }}<br>
             <strong>Hobbies:</strong> {{ participant.hobbies }}<br>
-        </div>
-        <div class="participant-social">
-            <br class="small-break">
-            <ul>
-                {% for social_item in participant.social %}
-                <li class="inline-list"><a href="{{ social_item.url }}" target="_blank">{{ social_item.title }}</a></li>
-                {% endfor %}
-            </ul>
         </div>
     </div>
 </div>
