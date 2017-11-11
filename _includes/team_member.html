@@ -9,6 +9,11 @@
         <div class="participant-social">
             <br class="small-break">
             <ul>
+                {% if participant.email %}
+                <li class="inline-list"><a href="mailto:{{ participant.email }}" target="_blank" title="email">
+                    <i class="fa fa-envelope"></i>
+                </a></li>
+                {% endif %}
                 {% for social_item in participant.social %}
                 <li class="inline-list"><a href="{{ social_item.url }}" target="_blank" title="{{ social_item.title }}">
                     <i class="fa fa-{{ social_item.name | downcase }}"></i>
