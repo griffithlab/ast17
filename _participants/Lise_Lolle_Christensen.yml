@@ -1,0 +1,12 @@
+---
+name: 'Lise Lolle Christensen'
+role: 'Student'
+bio: "Lise hails from the small Kingdom of Denmark. She is currently a phD student at the University of Southern Denmark, where she spends the majority of her time studying RNA-protein interactions. This is both in vivo through CLIP-seq and tRIP-seq, as well as in vitro through Surface plasmon resonance imaging (SPRi). She has recently spent 5 months in Japan at Nagoya Graduate School of Medicine, where she learned new meaning to the term 'long working hours'."
+hobbies: 'Rugby and board games'
+drink: 'Sauvignion blanc from Marlborough New Zealand'
+social:
+  - name: GitHub
+    url: https://github.com/octocat
+    title: "LiseLolle"
+email: 'lolle@bmb.sdu.dk'
+---
