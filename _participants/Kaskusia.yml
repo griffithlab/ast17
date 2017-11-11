@@ -1,0 +1,12 @@
+---
+name: 'Katarzyna Kaczmarek Michaels'
+role: 'Student'
+bio: 'I am a postdoc at Tufts University. I am interested in regulation of eukaryotic gene expression, especially in alternative polyadenylation, as well as interaction between virus and its host cell.'
+hobbies: 'martial arts, skiing, rock climbing'
+drink: 'beer'
+social:
+  - name: GitHub
+    url: https://github.com/Kaskusia
+    title: "GitHub Profile"
+email: 'Katarzyna.Michaels@tufts.edu'
+---
