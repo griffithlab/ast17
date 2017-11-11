@@ -24,6 +24,10 @@
 
 .participant {
   margin-bottom: 10px;
+  sub{
+    vertical-align: sub !important;
+    font-size: smaller !important;
+  }
 }
 
 .small-break{
