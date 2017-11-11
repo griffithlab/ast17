@@ -1,0 +1,12 @@
+---
+name: 'Lisa B. Caruso'
+role: 'Student'
+bio: "I am a Postdoc Fellow at Fels Institute, Temple University and I work on EBV virus. I did my PhD at the University of Rome La Sapienza and I don't like writing bios!" 
+drink: 'White Belgian beer'
+hobbies: "Music (I love going to punk rock concerts), comics, travel and cooking."
+social:
+  - name: GitHub
+    url: https://github.com/LisaBeatrice
+    title: "GitHub Profile"
+email: 'tug90581@temple.edu'
+---
